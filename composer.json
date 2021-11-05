@@ -1,0 +1,61 @@
+{
+    "name": "ajayvohra2005/hack-http-client",
+    "type": "library",
+    "description": "HTTP client implementation in Hack language",
+    "keywords": ["http","client","hack","hacklang"],
+    "homepage": "https://github.com/ajayvohra2005/hack-http-client.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Graham Campbell",
+            "email": "hello@gjcampbell.co.uk",
+            "homepage": "https://github.com/GrahamCampbell"
+        },
+        {
+            "name": "Michael Dowling",
+            "email": "mtdowling@gmail.com",
+            "homepage": "https://github.com/mtdowling"
+        },
+        {
+            "name": "Jeremy Lindblom",
+            "email": "jeremeamia@gmail.com",
+            "homepage": "https://github.com/jeremeamia"
+        },
+        {
+            "name": "George Mponos",
+            "email": "gmponos@gmail.com",
+            "homepage": "https://github.com/gmponos"
+        },
+        {
+            "name": "Tobias Nyholm",
+            "email": "tobias.nyholm@gmail.com",
+            "homepage": "https://github.com/Nyholm"
+        },
+        {
+            "name": "Márk Sági-Kazár",
+            "email": "mark.sagikazar@gmail.com",
+            "homepage": "https://github.com/sagikazarmark"
+        },
+        {
+            "name": "Tobias Schultze",
+            "email": "webmaster@tubo-world.de",
+            "homepage": "https://github.com/Tobion"
+        },
+        {
+            "name": "Ajay Vohra",
+            "email": "ajay.vohra2000@gmail.com",
+            "homepage": "https://github.com/ajayvohra2005"
+        }
+    ],
+
+    "require": {
+        "hhvm": "^4.132",
+        "hhvm/hhvm-autoload": "^3.3",
+        "ajayvohra2005/hack-promises": "^1.0.0"
+    },
+    "require-dev": {
+        "hhvm/hhast": "^4.123",
+        "hhvm/hacktest": "^2.2",
+        "facebook/fbexpect": "^2.8"
+    }
+}
